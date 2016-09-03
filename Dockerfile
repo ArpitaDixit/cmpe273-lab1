@@ -1,4 +1,4 @@
-FROM python:3.5.2
+FROM python3
 MAINTAINER Your Name "arpi.dixit91@gmail.com"
 COPY . /app
 WORKDIR /app
